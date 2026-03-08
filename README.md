@@ -7,9 +7,9 @@
 
 ## ⚠️ Pre-Launch Notice
 
-FAITH is currently in **beta testing** on Linux. A public release is planned for **July 2025**.
+FAITH is currently in **development* * A public release is planned for **Linux** **July 2026**.
 
-- 🐧 **Linux** — Available for beta testing now
+- 🐧 **Linux** — Available for beta testing on July 2026
 - 🪟 **Windows** — Coming after Linux stabilization
 - Bugs and glitches are expected. Contributions and bug reports are welcome!
 
@@ -278,7 +278,3 @@ This project is open source. License details will be included at the time of pub
 ## Disclaimer
 
 FAITH is a powerful tool that can control your computer autonomously. Always review what you are asking it to do. The developers are not responsible for any unintended actions taken by the agent. Use responsibly.
-
----
-
-*Built with 🔥 by a 13-year-old on Arch Linux.*
