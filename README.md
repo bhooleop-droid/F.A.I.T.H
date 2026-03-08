@@ -7,7 +7,7 @@
 
 ## ⚠️ Pre-Launch Notice
 
-FAITH is currently in **development* * A public release is planned for **Linux** **July 2026**.
+FAITH is currently in **development** A public release is planned for **Linux** **July 2026**.
 
 - 🐧 **Linux** — Available for beta testing on July 2026
 - 🪟 **Windows** — Coming after Linux stabilization
